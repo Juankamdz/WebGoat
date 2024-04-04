@@ -25,7 +25,7 @@ the exposure .
 **WARNING 2:** *This programd is for educational purposes only. If you attempt
 these techniques without authorization, you are very likely to get caught. If 
 you are caught engaging in una uthorized hacking, most companies will fire you.
-Claiming that you were doing security research will not work as that is the
+Claiming that you were doing security research  will not work as that is the
 first thing that all hackers claim.*
 
 ![WebGoat](docs/images/webgoat.png)
